@@ -1,0 +1,8 @@
+C:\_projeto\integration_system\integration-supplier\integration-core\obj\Debug\netcoreapp3.1\integration-core.AssemblyInfoInputs.cache
+C:\_projeto\integration_system\integration-supplier\integration-core\obj\Debug\netcoreapp3.1\integration-core.AssemblyInfo.cs
+C:\_projeto\integration_system\integration-supplier\integration-core\obj\Debug\netcoreapp3.1\integration-core.csproj.CoreCompileInputs.cache
+C:\_projeto\integration_system\integration-supplier\integration-core\bin\Debug\netcoreapp3.1\integration_core.deps.json
+C:\_projeto\integration_system\integration-supplier\integration-core\bin\Debug\netcoreapp3.1\integration_core.dll
+C:\_projeto\integration_system\integration-supplier\integration-core\bin\Debug\netcoreapp3.1\integration_core.pdb
+C:\_projeto\integration_system\integration-supplier\integration-core\obj\Debug\netcoreapp3.1\integration_core.dll
+C:\_projeto\integration_system\integration-supplier\integration-core\obj\Debug\netcoreapp3.1\integration_core.pdb

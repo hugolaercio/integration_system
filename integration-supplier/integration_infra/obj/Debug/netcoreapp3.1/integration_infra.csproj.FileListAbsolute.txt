@@ -1,0 +1,9 @@
+C:\_projeto\integration_system\integration-supplier\integration_infra\bin\Debug\netcoreapp3.1\integration_infra.deps.json
+C:\_projeto\integration_system\integration-supplier\integration_infra\bin\Debug\netcoreapp3.1\integration_infra.dll
+C:\_projeto\integration_system\integration-supplier\integration_infra\bin\Debug\netcoreapp3.1\integration_infra.pdb
+C:\_projeto\integration_system\integration-supplier\integration_infra\obj\Debug\netcoreapp3.1\integration_infra.AssemblyInfoInputs.cache
+C:\_projeto\integration_system\integration-supplier\integration_infra\obj\Debug\netcoreapp3.1\integration_infra.AssemblyInfo.cs
+C:\_projeto\integration_system\integration-supplier\integration_infra\obj\Debug\netcoreapp3.1\integration_infra.csproj.CoreCompileInputs.cache
+C:\_projeto\integration_system\integration-supplier\integration_infra\obj\Debug\netcoreapp3.1\integration_infra.dll
+C:\_projeto\integration_system\integration-supplier\integration_infra\obj\Debug\netcoreapp3.1\integration_infra.pdb
+C:\_projeto\integration_system\integration-supplier\integration_infra\obj\Debug\netcoreapp3.1\integration_infra.csprojAssemblyReference.cache

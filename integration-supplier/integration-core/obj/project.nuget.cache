@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4W6k9bWKBLp8pX3N3+SHlVS8Fd+NL87uKFBqVTCvbiQD8TKe8sGdoD+hzvZyBpmE55PA06vRmZvtqtHbLZvY5A==",
+  "success": true,
+  "projectFilePath": "C:\\_projeto\\integration_system\\integration-supplier\\integration-core\\integration-core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hugol\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
+    "C:\\Users\\hugol\\.nuget\\packages\\mediatr\\8.0.1\\mediatr.8.0.1.nupkg.sha512",
+    "C:\\Users\\hugol\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}

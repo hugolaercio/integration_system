@@ -1,10 +1,10 @@
 Tarefas
 
-*Definir contrato de integração para fornecedor (Para permitir iniciar desenvolvimento dos 3 containers)
+OK *Definir contrato de integração para fornecedor (Para permitir iniciar desenvolvimento dos 3 containers)
 
-*Desenvolver infraestrura compartilhada do projeto para desenvolvimento dos containers
+OK *Desenvolver infraestrura compartilhada do projeto para desenvolvimento dos containers
 
-*Desenvolvimento do container [POC-ADAPTADER-PRODUCER] (container de adapter) lendo da base SQL Server e enviando com uma base mockada e enviando para o broker (mockado)
+OK *Desenvolvimento do container [POC-ADAPTADER-PRODUCER] (container de adapter) lendo da base SQL Server e enviando com uma base mockada e enviando para o broker (mockado)
 
 *Desenvolvimento do container [POC-ADAPTADER-TRANSLATOR] (Container de tradução com a Decoupling Layer) lendo da fila mockada e enviando para o mongodb (mockado)
 
@@ -23,7 +23,7 @@ Tarefas
 
 ENTREGAVEIS
 
-1) Projeto com modelo de fornecedor (contrato de integração) e estruturas compartilhadas de infraestrutura 
+OK 1) Projeto com modelo de fornecedor (contrato de integração) e estruturas compartilhadas de infraestrutura 
 2) Container de banco de dados SQL Server populado e Container [POC-ADAPTADER-PRODUCER] 
 3) Container do RabbitMQ e Container [POC-ADAPTADER-TRANSLATOR] 
 4) Container do Redis e MongoDB e container do [POC-FORNEC-QUERY]
