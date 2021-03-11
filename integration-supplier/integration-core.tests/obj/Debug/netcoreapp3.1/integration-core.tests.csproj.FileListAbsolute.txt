@@ -8,6 +8,8 @@ C:\_projeto\integration_system\integration-supplier\integration-core.tests\bin\D
 C:\_projeto\integration_system\integration-supplier\integration-core.tests\bin\Debug\netcoreapp3.1\integration-core.tests.runtimeconfig.dev.json
 C:\_projeto\integration_system\integration-supplier\integration-core.tests\bin\Debug\netcoreapp3.1\integration-core.tests.dll
 C:\_projeto\integration_system\integration-supplier\integration-core.tests\bin\Debug\netcoreapp3.1\integration-core.tests.pdb
+C:\_projeto\integration_system\integration-supplier\integration-core.tests\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\_projeto\integration_system\integration-supplier\integration-core.tests\bin\Debug\netcoreapp3.1\MediatR.dll
 C:\_projeto\integration_system\integration-supplier\integration-core.tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
 C:\_projeto\integration_system\integration-supplier\integration-core.tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
 C:\_projeto\integration_system\integration-supplier\integration-core.tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
@@ -87,6 +89,9 @@ C:\_projeto\integration_system\integration-supplier\integration-core.tests\bin\D
 C:\_projeto\integration_system\integration-supplier\integration-core.tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\_projeto\integration_system\integration-supplier\integration-core.tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\_projeto\integration_system\integration-supplier\integration-core.tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\_projeto\integration_system\integration-supplier\integration-core.tests\bin\Debug\netcoreapp3.1\integration_core.dll
+C:\_projeto\integration_system\integration-supplier\integration-core.tests\bin\Debug\netcoreapp3.1\integration_core.pdb
+C:\_projeto\integration_system\integration-supplier\integration-core.tests\obj\Debug\netcoreapp3.1\integration-core.tests.csprojAssemblyReference.cache
 C:\_projeto\integration_system\integration-supplier\integration-core.tests\obj\Debug\netcoreapp3.1\integration-core.tests.AssemblyInfoInputs.cache
 C:\_projeto\integration_system\integration-supplier\integration-core.tests\obj\Debug\netcoreapp3.1\integration-core.tests.AssemblyInfo.cs
 C:\_projeto\integration_system\integration-supplier\integration-core.tests\obj\Debug\netcoreapp3.1\integration-core.tests.csproj.CoreCompileInputs.cache
@@ -94,8 +99,3 @@ C:\_projeto\integration_system\integration-supplier\integration-core.tests\obj\D
 C:\_projeto\integration_system\integration-supplier\integration-core.tests\obj\Debug\netcoreapp3.1\integration-core.tests.dll
 C:\_projeto\integration_system\integration-supplier\integration-core.tests\obj\Debug\netcoreapp3.1\integration-core.tests.pdb
 C:\_projeto\integration_system\integration-supplier\integration-core.tests\obj\Debug\netcoreapp3.1\integration-core.tests.genruntimeconfig.cache
-C:\_projeto\integration_system\integration-supplier\integration-core.tests\bin\Debug\netcoreapp3.1\FluentValidation.dll
-C:\_projeto\integration_system\integration-supplier\integration-core.tests\bin\Debug\netcoreapp3.1\MediatR.dll
-C:\_projeto\integration_system\integration-supplier\integration-core.tests\bin\Debug\netcoreapp3.1\integration_core.dll
-C:\_projeto\integration_system\integration-supplier\integration-core.tests\bin\Debug\netcoreapp3.1\integration_core.pdb
-C:\_projeto\integration_system\integration-supplier\integration-core.tests\obj\Debug\netcoreapp3.1\integration-core.tests.csprojAssemblyReference.cache

@@ -64,3 +64,5 @@ C:\_projeto\integration_system\integration-supplier\integration-adapter\bin\Debu
 C:\_projeto\integration_system\integration-supplier\integration-adapter\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 C:\_projeto\integration_system\integration-supplier\integration-adapter\obj\Debug\netcoreapp3.1\integration_adapter.dll
 C:\_projeto\integration_system\integration-supplier\integration-adapter\obj\Debug\netcoreapp3.1\integration_adapter.pdb
+C:\_projeto\integration_system\integration-supplier\integration-adapter\bin\Debug\netcoreapp3.1\integration_infra.dll
+C:\_projeto\integration_system\integration-supplier\integration-adapter\bin\Debug\netcoreapp3.1\integration_infra.pdb

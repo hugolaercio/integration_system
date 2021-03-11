@@ -5,11 +5,11 @@ namespace tests_integration_adapter
 {
     public class ProcessoAdapter
     {
-        [Fact]
+        /*[Fact]
         public void DeveriaProcessarAListaDoLegado()
         {
 
 
-        }
+        }*/
     }
 }

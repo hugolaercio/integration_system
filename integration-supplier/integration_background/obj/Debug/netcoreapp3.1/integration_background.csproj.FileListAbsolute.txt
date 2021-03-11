@@ -1,0 +1,12 @@
+C:\_projeto\integration_system\integration-supplier\integration_background\obj\Debug\netcoreapp3.1\integration_background.csprojAssemblyReference.cache
+C:\_projeto\integration_system\integration-supplier\integration_background\obj\Debug\netcoreapp3.1\integration_background.AssemblyInfoInputs.cache
+C:\_projeto\integration_system\integration-supplier\integration_background\obj\Debug\netcoreapp3.1\integration_background.AssemblyInfo.cs
+C:\_projeto\integration_system\integration-supplier\integration_background\obj\Debug\netcoreapp3.1\integration_background.csproj.CoreCompileInputs.cache
+C:\_projeto\integration_system\integration-supplier\integration_background\bin\Debug\netcoreapp3.1\integration_background.deps.json
+C:\_projeto\integration_system\integration-supplier\integration_background\bin\Debug\netcoreapp3.1\integration_background.dll
+C:\_projeto\integration_system\integration-supplier\integration_background\bin\Debug\netcoreapp3.1\integration_background.pdb
+C:\_projeto\integration_system\integration-supplier\integration_background\bin\Debug\netcoreapp3.1\integration_infra.dll
+C:\_projeto\integration_system\integration-supplier\integration_background\bin\Debug\netcoreapp3.1\integration_infra.pdb
+C:\_projeto\integration_system\integration-supplier\integration_background\obj\Debug\netcoreapp3.1\integration_background.csproj.CopyComplete
+C:\_projeto\integration_system\integration-supplier\integration_background\obj\Debug\netcoreapp3.1\integration_background.dll
+C:\_projeto\integration_system\integration-supplier\integration_background\obj\Debug\netcoreapp3.1\integration_background.pdb
