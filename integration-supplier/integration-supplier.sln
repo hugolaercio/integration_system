@@ -13,8 +13,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "tests_integration_adapter",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "integration-core.tests", "integration-core.tests\integration-core.tests.csproj", "{4B8E109E-D152-41AC-A8D4-DB03FDDE217D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "integration-translator", "integration-translator\integration-translator.csproj", "{DDF2284F-8818-46A1-9B09-93A723530858}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "integration_background", "integration_background\integration_background.csproj", "{96D8F785-E1E7-4AE3-8B19-6D99AF88BF69}"
 EndProject
 Global
@@ -43,10 +41,6 @@ Global
 		{4B8E109E-D152-41AC-A8D4-DB03FDDE217D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B8E109E-D152-41AC-A8D4-DB03FDDE217D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B8E109E-D152-41AC-A8D4-DB03FDDE217D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DDF2284F-8818-46A1-9B09-93A723530858}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DDF2284F-8818-46A1-9B09-93A723530858}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DDF2284F-8818-46A1-9B09-93A723530858}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DDF2284F-8818-46A1-9B09-93A723530858}.Release|Any CPU.Build.0 = Release|Any CPU
 		{96D8F785-E1E7-4AE3-8B19-6D99AF88BF69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{96D8F785-E1E7-4AE3-8B19-6D99AF88BF69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96D8F785-E1E7-4AE3-8B19-6D99AF88BF69}.Release|Any CPU.ActiveCfg = Release|Any CPU

@@ -6,3 +6,4 @@ C:\_projeto\integration_system\integration-supplier\integration-core\obj\Debug\n
 C:\_projeto\integration_system\integration-supplier\integration-core\obj\Debug\netcoreapp3.1\integration-core.csproj.CoreCompileInputs.cache
 C:\_projeto\integration_system\integration-supplier\integration-core\obj\Debug\netcoreapp3.1\integration_core.dll
 C:\_projeto\integration_system\integration-supplier\integration-core\obj\Debug\netcoreapp3.1\integration_core.pdb
+C:\_projeto\integration_system\integration-supplier\integration-core\obj\Debug\netcoreapp3.1\integration-core.csprojAssemblyReference.cache

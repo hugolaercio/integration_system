@@ -1,6 +1,8 @@
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using integration_background.Configuration;
+using integration_background.config;
+using Microsoft.Extensions.Options;
 
 namespace integration_adapter_client
 {
@@ -16,8 +18,12 @@ namespace integration_adapter_client
             Host.CreateDefaultBuilder(args)
                 .ConfigureServices((hostContext, services) =>
                 {
-                    //IConfiguration configuration = hostContext.Configuration;
-                    //services.Configure<RabbitMQConfiguration>(configuration.GetSection(nameof(RabbitMQConfiguration)));
+                    var rabbitMQConfigurations = new RabbitMQConfigurations();
+                    new ConfigureFromConfigurationOptions<RabbitMQConfigurations>(
+                        hostContext.Configuration.GetSection("RabbitMQConfigurations"))
+                            .Configure(rabbitMQConfigurations);
+
+                    services.AddMessageBusConfiguration(rabbitMQConfigurations);
 
                     services.RegisterServices();
 

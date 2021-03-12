@@ -26,3 +26,4 @@ C:\_projeto\integration_system\integration-supplier\integration-translator\obj\D
 C:\_projeto\integration_system\integration-supplier\integration-translator\obj\Debug\netcoreapp3.1\integration-translator.dll
 C:\_projeto\integration_system\integration-supplier\integration-translator\obj\Debug\netcoreapp3.1\integration-translator.pdb
 C:\_projeto\integration_system\integration-supplier\integration-translator\obj\Debug\netcoreapp3.1\integration-translator.genruntimeconfig.cache
+C:\_projeto\integration_system\integration-supplier\integration-translator\obj\Debug\netcoreapp3.1\integration-translator.csprojAssemblyReference.cache

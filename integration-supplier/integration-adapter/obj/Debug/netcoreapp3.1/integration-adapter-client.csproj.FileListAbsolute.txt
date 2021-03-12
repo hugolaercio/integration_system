@@ -68,3 +68,6 @@ C:\_projeto\integration_system\integration-supplier\integration-adapter\obj\Debu
 C:\_projeto\integration_system\integration-supplier\integration-adapter\obj\Debug\netcoreapp3.1\integration_adapter_client.dll
 C:\_projeto\integration_system\integration-supplier\integration-adapter\obj\Debug\netcoreapp3.1\integration_adapter_client.pdb
 C:\_projeto\integration_system\integration-supplier\integration-adapter\obj\Debug\netcoreapp3.1\integration-adapter-client.genruntimeconfig.cache
+C:\_projeto\integration_system\integration-supplier\integration-adapter\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\_projeto\integration_system\integration-supplier\integration-adapter\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\_projeto\integration_system\integration-supplier\integration-adapter\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
